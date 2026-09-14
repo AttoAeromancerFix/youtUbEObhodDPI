@@ -1,0 +1,20 @@
+# youtUbEObhodDPI
+
+> Новая версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+
+Сборка youtUbEObhodDPI для тех, у кого YouTube ползёт на 144p. Без VPN и без смены DNS-провайдера.
+
+## Страницы
+- Сайт: https://attoaeromancerfix.github.io/youtUbEObhodDPI/
+- Релиз: https://github.com/AttoAeromancerFix/youtUbEObhodDPI/releases/latest
+- Исходный код: https://github.com/AttoAeromancerFix/youtUbEObhodDPI
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход замедления YouTube
+- YouTube тормозит что делать
+- YouTube не грузит видео
+- ускорить YouTube без VPN
+- zapret YouTube
+
+Windows 10/11, без VPN, бесплатно.
